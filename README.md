@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormanuelfrancodev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormanuelfrancodev&langs_count=8&theme=tokyonight)
 
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormanuelfrancodev&show_icons=true&theme=tokyonight)](https://github.com/victormanuelfrancodev)
