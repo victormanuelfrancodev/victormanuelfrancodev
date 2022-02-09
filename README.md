@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Flutter Maps and Games in Flutter (Flame 🔥 )
+- 🔭 I’m currently working in Flutter Maps and Games in Flutter (Flame 🔥 )
 - 🌱 I’m currently learning Unity,IA, Maths for games...
 - 💬 Ask me about anything 
 - 👯 I’m looking to collaborate with other content creators
