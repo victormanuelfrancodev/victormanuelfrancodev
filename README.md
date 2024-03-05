@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working in Flutter Maps and Games in Flutter (Flame 🔥 )
-- 🌱 I’m currently learning Unity,IA, Maths for games...
-- 💬 Ask me about anything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love running , boxing and gym
-
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
